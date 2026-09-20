@@ -1,6 +1,6 @@
 # Seattle Weather Prediction — Data Analytics Project
 
-A complete end-to-end machine learning project that analyses historical Seattle weather data (2012–2015) and builds predictive models to classify daily weather conditions.
+A complete end-to-end data analytics project that analyses historical Seattle weather data (2012–2015) and builds predictive models to classify daily weather conditions.
 
 ---
 
